@@ -104,8 +104,8 @@ figure.effect-ruby img {
 	opacity: 0.85;
 	-webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
 	transition: opacity 0.35s, transform 0.35s;
-	-webkit-transform: scale(1.25);
-	transform: scale(1.25);
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
 }
 
 figure.effect-ruby:hover img {
