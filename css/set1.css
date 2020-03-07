@@ -97,7 +97,8 @@
 figure.effect-ruby {
 	background: -webkit-linear-gradient(45deg, #ff89e9 0%, #05abe0 100%);
 	background: linear-gradient(45deg, #ff89e9 0%,#05abe0 100%);
-	background-size: contain;
+  background-position: center;
+  background-size: 99% 99%;
 	margin-bottom: 20px;
 }
 
