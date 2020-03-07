@@ -56,8 +56,10 @@ section {
 
 /* Header */
 .codrops-header {
+  font-size: 125%;
 	margin: 0 auto;
-	padding: 4em 1em;
+	padding-top: 3em;
+	padding-bottom: .65em;
 	text-align: center;
 }
 
