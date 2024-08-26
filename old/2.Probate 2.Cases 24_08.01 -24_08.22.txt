@@ -1,3 +1,4 @@
+Case Number~Filed Date~Case Page~Case Type~Case Status~Location~Party Name~Pulled Date
 PR-24-02631-1~08/01/2024~https://courtsportal.dallascounty.org/DALLASPROD/Case/CaseDetail?eid=QLa7rKzS5fd_i76g664wuA2~DECEDENT - WILL (LETTERS TESTAMENTARY)~OPEN~Probate Court~GARDNER , EVELYN~08/25/2024
 PR-24-02632-1~08/01/2024~https://courtsportal.dallascounty.org/DALLASPROD/Case/CaseDetail?eid=Hej2qYrREH7s0EVXqXJUKg2~DECEDENT - INDEPENDENT ADMINISTRATION WITH WILL~OPEN~Probate Court~STRACK, TOMMIE RYLAND~08/25/2024
 PR-24-02635-1~08/01/2024~https://courtsportal.dallascounty.org/DALLASPROD/Case/CaseDetail?eid=FYApErWVil5Jb4M9hfLfKg2~DECEDENT - WILL (MUNIMENT OF TITLE)~OPEN~Probate Court~FOX, JOHN B.~08/25/2024
